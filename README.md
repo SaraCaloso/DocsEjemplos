@@ -1,2 +1,2 @@
 # DocsEjemplos
-Ejemplo de algunos documentos ejecutivos
+Ejemplo de algunos documentos ejecutivos de análisis de datos
